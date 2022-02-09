@@ -4,6 +4,10 @@
   text-align: center;
 }
 
+.col-sm-12 {
+  width: 100%;
+}
+
 .dice {
   text-align: center;
   display: inline-block;
